@@ -1,0 +1,30 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 28.06.2018 17:32:55
+
+mtllib M_XA_N_B2S_liang002.mtl
+
+#
+# object M_XA_N_B2S_liang002
+#
+
+v  324.8899 42.2876 204.0340
+v  324.8899 42.2876 926.7092
+v  1047.5652 42.2876 926.7092
+v  1047.5652 42.2876 204.0340
+# 4 vertices
+
+vn 0.0000 1.0000 -0.0000
+# 1 vertex normals
+
+vt 0.0000 1.0000 0.0000
+vt 0.0000 0.0000 0.0000
+vt 1.0000 0.0000 0.0000
+vt 1.0000 1.0000 0.0000
+# 4 texture coords
+
+g M_XA_N_B2S_liang002
+usemtl Tt_N_B2S_liang002
+s 1
+f 1/1/1 2/2/1 3/3/1 4/4/1 
+# 1 polygons
+

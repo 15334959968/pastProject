@@ -1,0 +1,30 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 26.06.2018 14:47:39
+
+mtllib M_K_MEP_B1_SDCK_M_ELE_H_FB1.mtl
+
+#
+# object M_K_MEP_B1_SDCK_M_ELE_H_FB1
+#
+
+v  1967.2920 58.3796 -2207.5862
+v  -2671.6816 58.3796 -2207.5862
+v  -2671.6816 58.3796 2431.3875
+v  1967.2920 58.3796 2431.3875
+# 4 vertices
+
+vn 0.0000 1.0000 -0.0000
+# 1 vertex normals
+
+vt 1.0000 1.0000 0.5000
+vt 0.0000 1.0000 0.5000
+vt 0.0000 0.0000 0.5000
+vt 1.0000 0.0000 0.5000
+# 4 texture coords
+
+g M_K_MEP_B1_SDCK_M_ELE_H_FB1
+usemtl SDCK_M_ELE_H_FB1
+s 1
+f 1/1/1 2/2/1 3/3/1 4/4/1 
+# 1 polygons
+

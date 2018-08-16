@@ -1,0 +1,30 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 30.01.2018 17:56:22
+
+mtllib M_T_B2_PIAN_B307.mtl
+
+#
+# object M_T_B2_PIAN_B307
+#
+
+v  -129.3813 224.7989 775.5754
+v  -220.3816 224.7989 197.1903
+v  -650.7640 224.7989 266.2158
+v  -559.7635 224.7989 844.6008
+# 4 vertices
+
+vn 0.0000 1.0000 -0.0000
+# 1 vertex normals
+
+vt 0.2985 -0.0008 0.5000
+vt 0.2985 0.4002 0.5000
+vt 0.0000 0.3993 0.5000
+vt 0.0000 -0.0017 0.5000
+# 4 texture coords
+
+g M_T_B2_PIAN_B307
+usemtl T_B2_PIAN_01
+s 1
+f 1/1/1 2/2/1 3/3/1 4/4/1 
+# 1 polygons
+

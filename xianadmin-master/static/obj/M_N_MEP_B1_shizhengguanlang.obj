@@ -1,0 +1,40 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 13.07.2018 10:27:22
+
+mtllib M_N_MEP_B1_shizhengguanlang.mtl
+
+#
+# object M_N_MEP_B1_shizhengguanlang
+#
+
+v  -943.7642 137.0029 -486.8208
+v  -545.8079 137.0029 -486.8208
+v  -545.8079 137.0029 -953.5480
+v  -943.7642 137.0029 -953.5480
+v  441.5179 137.0029 -720.2780
+v  743.4689 137.0029 -720.2780
+v  743.4689 137.0029 -1149.0486
+v  441.5179 137.0029 -1149.0486
+# 8 vertices
+
+vn 0.0000 1.0000 -0.0000
+# 1 vertex normals
+
+vt 0.0000 0.0000 0.5000
+vt 0.5662 0.0000 0.5000
+vt 0.5662 0.6766 0.5000
+vt 0.0000 0.6766 0.5000
+vt 0.5662 0.3400 0.5000
+vt 1.0000 0.3400 0.5000
+vt 1.0000 0.9589 0.5000
+vt 0.5662 0.9589 0.5000
+# 8 texture coords
+
+o M_N_MEP_B1_shizhengguanlang
+g M_N_MEP_B1_shizhengguanlang
+usemtl N_B1_shizhengguanlang
+s 1
+f 1/1/1 2/2/1 3/3/1 4/4/1 
+f 5/5/1 6/6/1 7/7/1 8/8/1 
+# 2 polygons
+

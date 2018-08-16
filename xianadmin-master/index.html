@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>西岸后台管理系统</title>
+    <script src="./static/js/appinit.js"></script>
+    <script src="./static/js/flexible.js"></script>
+  </head>
+  <body>
+    <div id="app"></div>
+    <script src="https://cdn.bootcss.com/three.js/91/three.min.js"></script>
+    <script src="https://cdn.bootcss.com/jquery/3.3.1/jquery.min.js"></script>
+    <!--<script src="./static/js/three.js"></script>-->
+    <!--<script src="./static/js/jquery.min.js"></script>-->
+    <script src="./static/js/OBJLoader.js"></script>
+    <script src="./static/js/FBXLoader.js"></script>
+    <script src="./static/js/inflate.min.js"></script>
+    <script src="./static/js/Tween.js"></script>
+    <script src="./static/js/OrbitTouchControls-update.js"></script>
+
+    <script>
+        // 定义一个全局的 three 变量保存 THREE 实例，方便多处调用
+        const three = {};
+        const threet ={};
+        // 定义一个全局的 vue 对象保存 vue 示例，方便多处调用
+        const vue = {
+            vue: null,
+            router: null,
+            store: null
+        };
+        // 定义一个全局的控制器，开发环境使用，生产环境用不到
+        const threeConfig = {
+            showMouseDownPoint: true,
+            showMouseDownNames: true
+        };
+    </script>
+  </body>
+</html>

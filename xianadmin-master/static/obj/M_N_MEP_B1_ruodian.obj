@@ -1,0 +1,31 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 13.07.2018 10:26:39
+
+mtllib M_N_MEP_B1_ruodian.mtl
+
+#
+# object M_N_MEP_B1_ruodian
+#
+
+v  -1261.5317 55.2201 -958.4686
+v  -1261.5316 55.2201 1021.1395
+v  1405.8334 55.2201 1021.1394
+v  1405.8334 55.2201 -958.4686
+# 4 vertices
+
+vn 0.0000 1.0000 -0.0000
+# 1 vertex normals
+
+vt 0.0000 1.0000 0.0000
+vt 0.0000 0.0000 0.0000
+vt 1.0000 0.0000 0.0000
+vt 1.0000 1.0000 0.0000
+# 4 texture coords
+
+o M_N_MEP_B1_ruodian
+g M_N_MEP_B1_ruodian
+usemtl N_B1_ruodian
+s 1
+f 1/1/1 2/2/1 3/3/1 4/4/1 
+# 1 polygons
+

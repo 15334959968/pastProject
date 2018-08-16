@@ -1,0 +1,31 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 13.07.2018 10:22:41
+
+mtllib M_N_MEP_B1_penlin.mtl
+
+#
+# object M_N_MEP_B1_penlin
+#
+
+v  -1418.3473 132.1115 -1527.8599
+v  -1418.3474 132.1115 1480.1592
+v  1564.2247 132.1115 1480.1592
+v  1564.2247 132.1115 -1527.8599
+# 4 vertices
+
+vn 0.0000 1.0000 -0.0000
+# 1 vertex normals
+
+vt 0.0035 1.0000 0.0000
+vt 0.0035 -0.0000 0.0000
+vt 0.9954 -0.0000 0.0000
+vt 0.9954 1.0000 0.0000
+# 4 texture coords
+
+o M_N_MEP_B1_penlin
+g M_N_MEP_B1_penlin
+usemtl N_B1_penlin
+s 1
+f 1/1/1 2/2/1 3/3/1 4/4/1 
+# 1 polygons
+

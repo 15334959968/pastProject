@@ -1,0 +1,30 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 06.07.2018 14:37:34
+
+mtllib M_XA_huandaoMEP_qiangdian.mtl
+
+#
+# object M_XA_huandaoMEP_qiangdian
+#
+
+v  -28.9907 -26.9128 72.3921
+v  39.7837 -26.9128 61.3313
+v  16.7182 -26.9128 -82.0866
+v  -52.0562 -26.9128 -71.0258
+# 4 vertices
+
+vn 0.0000 1.0000 -0.0000
+# 1 vertex normals
+
+vt 0.0290 0.0097 0.0000
+vt 0.9726 0.0097 0.0000
+vt 0.9726 0.9934 0.0000
+vt 0.0290 0.9934 0.0000
+# 4 texture coords
+
+g M_XA_huandaoMEP_qiangdian
+usemtl huandao_MEP_qiangdian
+s 1
+f 1/1/1 2/2/1 3/3/1 4/4/1 
+# 1 polygons
+

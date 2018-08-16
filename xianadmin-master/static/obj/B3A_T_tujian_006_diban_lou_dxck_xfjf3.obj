@@ -1,0 +1,34 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 24.01.2018 18:15:59
+
+mtllib B3A_T_tujian_006_diban_lou_dxck_xfjf3.mtl
+
+#
+# object B3A_T_tujian_006_diban_lou_dxck_xfjf3
+#
+
+v  -598.1043 129.0089 -564.2906
+v  -598.1043 129.0089 -705.0961
+v  -728.5143 129.0089 -650.2876
+v  -728.5219 129.0089 -564.2906
+v  -728.5098 129.0089 -705.0961
+# 5 vertices
+
+vn 0.0000 1.0000 -0.0000
+vn 0.0000 1.0000 0.0000
+# 2 vertex normals
+
+vt 0.2294 0.7829 0.5151
+vt 0.2294 0.8406 0.5151
+vt 0.1643 0.8182 0.5151
+vt 0.1643 0.7829 0.5151
+vt 0.1643 0.8406 0.5151
+# 5 texture coords
+
+g B3A_T_tujian_006_diban_lou_dxck_xfjf3
+usemtl T_tujian_006
+s off
+f 1/1/1 2/2/1 3/3/1 4/4/1 
+f 2/2/2 5/5/2 3/3/2 
+# 1 polygons - 1 triangles
+

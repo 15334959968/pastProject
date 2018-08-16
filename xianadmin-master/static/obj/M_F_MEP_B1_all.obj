@@ -1,0 +1,30 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 28.06.2018 18:58:43
+
+mtllib M_F_MEP_B1_all.mtl
+
+#
+# object M_F_MEP_B1_all
+#
+
+v  -1437.9222 460.3414 1481.5885
+v  1515.8380 460.3414 1481.5885
+v  1515.8380 460.3414 -1472.1718
+v  -1437.9222 460.3414 -1472.1718
+# 4 vertices
+
+vn 0.0000 1.0000 -0.0000
+# 1 vertex normals
+
+vt 0.0000 0.0000 0.0000
+vt 1.0000 0.0000 0.0000
+vt 1.0000 1.0000 0.0000
+vt 0.0000 1.0000 0.0000
+# 4 texture coords
+
+g M_F_MEP_B1_all
+usemtl F_B1_all
+s 1
+f 1/1/1 2/2/1 3/3/1 4/4/1 
+# 1 polygons
+

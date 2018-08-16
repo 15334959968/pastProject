@@ -1,0 +1,30 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 14.12.2017 18:16:04
+
+mtllib B3MEP_T_jidianB3_001.mtl
+
+#
+# object B3MEP_T_jidianB3_001
+#
+
+v  -1138.2874 96.3212 1443.8271
+v  1464.6499 96.3212 1443.8271
+v  1464.6499 96.3212 -1177.8065
+v  -1138.2874 96.3212 -1177.8065
+# 4 vertices
+
+vn 0.0000 1.0000 -0.0000
+# 1 vertex normals
+
+vt 0.0000 0.0000 0.0000
+vt 1.0000 0.0000 0.0000
+vt 1.0000 1.0000 0.0000
+vt 0.0000 1.0000 0.0000
+# 4 texture coords
+
+g B3MEP_T_jidianB3_001
+usemtl T_jidianB3_001
+s off
+f 1/1/1 2/2/1 3/3/1 4/4/1 
+# 1 polygons
+

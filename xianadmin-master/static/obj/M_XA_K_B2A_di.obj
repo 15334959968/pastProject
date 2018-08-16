@@ -1,0 +1,30 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 24.06.2018 15:50:37
+
+mtllib M_XA_K_B2A_di.mtl
+
+#
+# object M_XA_K_B2A_di
+#
+
+v  -2374.0015 4.2118 -2385.4768
+v  -2374.0015 4.2118 2500.1609
+v  2511.6362 4.2118 2500.1609
+v  2511.6362 4.2118 -2385.4768
+# 4 vertices
+
+vn 0.0000 1.0000 -0.0000
+# 1 vertex normals
+
+vt 0.0000 1.0000 0.0000
+vt 0.0000 0.0000 0.0000
+vt 1.0000 0.0000 0.0000
+vt 1.0000 1.0000 0.0000
+# 4 texture coords
+
+g M_XA_K_B2A_di
+usemtl Tt_K_B2A_louban
+s 1
+f 1/1/1 2/2/1 3/3/1 4/4/1 
+# 1 polygons
+

@@ -1,0 +1,30 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 09.02.2018 10:22:39
+
+mtllib M_guandao2_pian.mtl
+
+#
+# object M_guandao2_pian
+#
+
+v  96.0812 -1.9526 -31.7722
+v  96.0812 -1.9526 -44.6936
+v  -101.9825 -1.9526 -19.3079
+v  -101.9825 -1.9526 -5.5404
+# 4 vertices
+
+vn 0.0000 1.0000 -0.0000
+# 1 vertex normals
+
+vt 1.0000 0.7649 0.5000
+vt 1.0000 0.8954 0.5000
+vt 0.0000 0.6390 0.5000
+vt 0.0000 0.5000 0.5000
+# 4 texture coords
+
+g M_guandao2_pian
+usemtl T_guanlang_pian01
+s 1
+f 1/1/1 2/2/1 3/3/1 4/4/1 
+# 1 polygons
+

@@ -1,0 +1,92 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 08.02.2018 14:32:31
+
+newmtl T_dianli
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\yangyunhai\three-demo\youzu\obj\T_dianli.png
+	map_Kd D:\yangyunhai\three-demo\youzu\obj\T_dianli.png
+	map_d D:\yangyunhai\three-demo\youzu\obj\T_dianli.png
+
+newmtl T_jishui
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\yangyunhai\three-demo\youzu\obj\T_jishui.png
+	map_Kd D:\yangyunhai\three-demo\youzu\obj\T_jishui.png
+	map_d D:\yangyunhai\three-demo\youzu\obj\T_jishui.png
+
+newmtl T_paishui_yushui2
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\yangyunhai\three-demo\youzu\obj\T_paishui_yushui2.png
+	map_Kd D:\yangyunhai\three-demo\youzu\obj\T_paishui_yushui2.png
+	map_d D:\yangyunhai\three-demo\youzu\obj\T_paishui_yushui2.png
+
+newmtl T_paishui_wushui2
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\yangyunhai\three-demo\youzu\obj\T_paishui_wushui2.png
+	map_Kd D:\yangyunhai\three-demo\youzu\obj\T_paishui_wushui2.png
+	map_d D:\yangyunhai\three-demo\youzu\obj\T_paishui_wushui2.png
+
+newmtl T_ranqi
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\yangyunhai\three-demo\youzu\obj\T_ranqi.png
+	map_Kd D:\yangyunhai\three-demo\youzu\obj\T_ranqi.png
+	map_d D:\yangyunhai\three-demo\youzu\obj\T_ranqi.png
+
+newmtl T_tongxin
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\yangyunhai\three-demo\youzu\obj\T_tongxin.png
+	map_Kd D:\yangyunhai\three-demo\youzu\obj\T_tongxin.png
+	map_d D:\yangyunhai\three-demo\youzu\obj\T_tongxin.png

@@ -1,0 +1,30 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 28.06.2018 17:35:06
+
+mtllib M_XA_N_B2A_tingchewei.mtl
+
+#
+# object M_XA_N_B2A_tingchewei
+#
+
+v  -996.5302 2.3875 -1462.4771
+v  -996.5302 2.3875 708.8572
+v  1174.8041 2.3875 708.8572
+v  1174.8041 2.3875 -1462.4771
+# 4 vertices
+
+vn 0.0000 1.0000 -0.0000
+# 1 vertex normals
+
+vt 0.0000 1.0000 0.0000
+vt 0.0000 0.0000 0.0000
+vt 1.0000 0.0000 0.0000
+vt 1.0000 1.0000 0.0000
+# 4 texture coords
+
+g M_XA_N_B2A_tingchewei
+usemtl Tt_N_XA_AS_tingchewei
+s 1
+f 1/1/1 2/2/1 3/3/1 4/4/1 
+# 1 polygons
+

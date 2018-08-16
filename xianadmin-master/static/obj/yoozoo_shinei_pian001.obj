@@ -1,0 +1,30 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 15.12.2017 10:37:59
+
+mtllib yoozoo_shinei_pian001.mtl
+
+#
+# object yoozoo_shinei_pian001
+#
+
+v  -73.7382 64.9866 43.9962
+v  -123.1865 64.9866 43.9962
+v  -123.1865 64.9866 93.4445
+v  -73.7382 64.9866 93.4445
+# 4 vertices
+
+vn 0.0000 1.0000 -0.0000
+# 1 vertex normals
+
+vt 1.0000 1.0000 0.5000
+vt 0.0000 1.0000 0.5000
+vt 0.0000 0.0000 0.5000
+vt 1.0000 0.0000 0.5000
+# 4 texture coords
+
+g yoozoo_shinei_pian001
+usemtl yoozoo_shinei_pian
+s 1
+f 1/1/1 2/2/1 3/3/1 4/4/1 
+# 1 polygons
+

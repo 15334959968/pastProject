@@ -1,0 +1,30 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 21.12.2017 02:51:53
+
+mtllib B3_xfpl_pian.mtl
+
+#
+# object B3_xfpl_pian
+#
+
+v  1321.9435 101.0640 -1037.4336
+v  -872.4398 101.0640 -1037.4336
+v  -872.4398 101.0640 1287.9106
+v  1321.9435 101.0640 1287.9106
+# 4 vertices
+
+vn 0.0000 1.0000 -0.0000
+# 1 vertex normals
+
+vt 0.9996 0.9986 0.5000
+vt 0.0003 0.9986 0.5000
+vt 0.0003 0.0006 0.5000
+vt 0.9996 0.0006 0.5000
+# 4 texture coords
+
+g B3_xfpl_pian
+usemtl Material__8
+s 1
+f 1/1/1 2/2/1 3/3/1 4/4/1 
+# 1 polygons
+
